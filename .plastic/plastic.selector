@@ -1,4 +1,3 @@
-repository "Tencent2024GJ@tencent2024gj@cloud.cn"
+rep "Tencent2024GJ@tencent2024gj@cloud.cn"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main/SwapAudioTrack" 
